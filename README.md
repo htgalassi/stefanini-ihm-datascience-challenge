@@ -17,7 +17,7 @@ O desafio se divide nas seguintes etapas:
 2. Desenvolvimento da solução do desafio (analisar, explorar e modelar o problema)
 3. Criar uma apresentação em **formato de slides**
 4. **Submeter** o código e o arquivo da apresentação
-5. Informar pelos emails `htgalassi@ihm.com.br` e `leonardo.oliveira@ihm.com.br` que você concluiu o desafio
+5. Responder na thread de e-mails em que você recebeu o desafio que você concluiu a resolução.
 6. Iremos combinar uma data da sua apresentação (a ser realizada remotamente via Microsoft Teams)
 7. Realizar a apresentação final para os stakeholders da Stefanini ihm
 
@@ -61,7 +61,7 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 ## 1.7 FAQ
 
 1. Pode usar Google, Kaggle, Stackoverflow à vontade, pois é assim que funciona na vida real! Não se esqueça, porém de atribuir os créditos de maneira justa quando o trabalho apresentado não for seu.
-2. Será permitido tirar dúvidas com as pessoas da Stefanini ihm, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email, com `htgalassi@ihm.com.br` e `leonardo.oliveira@ihm.com.br`.
+2. Será permitido tirar dúvidas com as pessoas da Stefanini ihm, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email, na mesma thread em que você recebeu as instruções para o desafio.
 
 ---
 
