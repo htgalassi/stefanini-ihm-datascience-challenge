@@ -34,7 +34,7 @@ Iremos avaliar, principalmente, os seguintes pontos:
 5. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
 6. Tamanho e a qualidade do seu "repertório" em algoritmos de exploração de dados (data mining) bem como, na construção dos modelos (regressão, modelos de árvore, séries temporais, etc).
 
-## 1.4 Critérios que **Não nos preocupamos tanto** nessa etapa
+## 1.4 Critérios que **não nos preocupamos tanto** nessa etapa
 
 **Desempenho do modelo** 
 
@@ -53,7 +53,7 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 ## 1.6 Entregáveis, Prazos e Submissão final
 
-1. **Enviar o link do repositório no github**, contendo a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb;
+1. **Enviar o link do seu repositório no github**, contendo a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb;
 2. Utilizar o git também para enviar o arquivo da sua apresentação;
 3. Prazo inicial de **até 2 semanas**, a contar a partir da data em que você recebeu o email de convocação para o desafio;
 4. A data final da apresentação será combinada via email com o time Stefanini ihm.
