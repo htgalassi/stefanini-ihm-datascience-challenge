@@ -55,7 +55,7 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 1. **Enviar o link do seu repositório no github**, contendo a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb;
 2. Utilizar o git também para enviar o arquivo da sua apresentação;
-3. Prazo inicial de **até 2 semanas**, a contar a partir da data em que você recebeu o email de convocação para o desafio;
+3. Prazo inicial **acordado na thread de e-mail**;
 4. A data final da apresentação será combinada via email com o time Stefanini ihm.
 
 ## 1.7 FAQ
