@@ -15,11 +15,11 @@ O desafio se divide nas seguintes etapas:
 
 1. Recebimento do link de acesso ao repositório, com as instruções necessárias para sua realização
 2. Desenvolvimento da solução do desafio (analisar, explorar e modelar o problema)
-3. Criar uma apresentação em **formato de slides**
+3. Criar uma apresentação em **formato de slides**.
 4. **Submeter** o código e o arquivo da apresentação
 5. Responder na thread de e-mails em que você recebeu o desafio que você concluiu a resolução.
-6. Iremos combinar uma data da sua apresentação (a ser realizada remotamente via Microsoft Teams)
-7. Realizar a apresentação final para os stakeholders da Stefanini ihm
+6. Iremos combinar uma data da sua apresentação (a ser realizada remotamente via Microsoft Teams). 
+7. Realizar a apresentação final para os stakeholders da Stefanini ihm. Você terá até 40 minutos para apresentar o material preparado, e depois teremos mais 20 minutos para dúvidas dos avaliadores.
 
 ## 1.3 Critérios de avaliação mais relevantes
 
